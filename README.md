@@ -6,4 +6,4 @@ Abstract: Samba is a suite of programs that provide seamless file and print serv
 
 Language: Linux Administration with Shell Scripting
 
-Guide: Screenshots of various steps carried out are in order.
+Guide: Screenshots of various steps carried out are numbered in order.
